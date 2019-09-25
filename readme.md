@@ -6,5 +6,5 @@ This repository will be used to host my capstone project for IBM's Applied Data 
 
 We've got a Jupyter notebook and a markdown file. More to come!
 
-Thanks,
+### Thanks,
 CD
